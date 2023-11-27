@@ -1,0 +1,68 @@
+[
+  {
+    "amount": 1000.0,
+    "category": "Salary",
+    "transaction_type": "income",
+    "date": "2023-11-27"
+  },
+  {
+    "amount": 50.0,
+    "category": "Groceries",
+    "transaction_type": "expense",
+    "date": "2023-11-27"
+  },
+  {
+    "amount": 200.0,
+    "category": "Freelance",
+    "transaction_type": "income",
+    "date": "2023-11-26"
+  },
+  {
+    "amount": 30.0,
+    "category": "Dining Out",
+    "transaction_type": "expense",
+    "date": "2023-11-25"
+  },
+  {
+    "amount": 150.0,
+    "category": "Utilities",
+    "transaction_type": "expense",
+    "date": "2023-11-24"
+  },
+  {
+    "amount": 1000.0,
+    "category": "Salary",
+    "transaction_type": "income",
+    "date": "2023-11-27"
+  },
+  {
+    "amount": 50.0,
+    "category": "Groceries",
+    "transaction_type": "expense",
+    "date": "2023-11-27"
+  },
+  {
+    "amount": 1000.0,
+    "category": "Salary",
+    "transaction_type": "income",
+    "date": "2023-11-27"
+  },
+  {
+    "amount": 50.0,
+    "category": "Groceries",
+    "transaction_type": "expense",
+    "date": "2023-11-27"
+  },
+  {
+    "amount": 1000.0,
+    "category": "Salary",
+    "transaction_type": "income",
+    "date": "2023-11-27"
+  },
+  {
+    "amount": 50.0,
+    "category": "Groceries",
+    "transaction_type": "expense",
+    "date": "2023-11-27"
+  }
+]
